@@ -4,9 +4,9 @@ Un paragraphe
 
 ## Deuxième titre
 
-...
+```
 Un bout de code
-...
+```
 
 
 > Une citation 
