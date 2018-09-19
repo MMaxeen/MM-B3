@@ -8,6 +8,7 @@ Un paragraphe
 Un bout de code
 ```
 
+Lancer la commande `npm run build`
 
 > Une citation 
 
